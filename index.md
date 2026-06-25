@@ -3,12 +3,12 @@ title: Home
 nav_order: 1
 ---
 
-# 👋 Welcome
+# LORENZO TREVINO - ARCGIS STUDIES
 
-Hi! I’m **Your Name**, a [short description — e.g. researcher, map designer, etc.].
+Hi! I’m Lorenzo. I am an aspiring architect interested in "low-tech" architectural design and the future of urban food systems. My hobbies include going to farmer's markets, jumproping, and playing retro video games. 
 
-Use the links on the left (or top, depending on theme) to explore:
+Links!:
 
 - [About Me](about.md)
-- [Projects](projects.md)
+- [Maps](projects.md)
 - [Contact](contact.md)
