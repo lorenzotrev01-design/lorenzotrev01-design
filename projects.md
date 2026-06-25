@@ -9,6 +9,7 @@ Here are my best maps that I have created using ArcGIS:
 
 
 
-<img width="100%" height="auto"" alt="Layout" src="https://github.com/user-attachments/assets/e9934022-5322-4c93-9e21-2827bc8250f2" />
+<img width="100%" height="auto" alt="Layout" src="https://github.com/user-attachments/assets/eaed1c55-0952-497a-b99a-8a79e7089a9d" />
+
 
 
