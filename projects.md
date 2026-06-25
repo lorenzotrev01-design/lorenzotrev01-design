@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Maps
 nav_order: 3
 ---
 
