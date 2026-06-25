@@ -7,6 +7,6 @@ nav_order: 4
 
 You can reach me at:
 
-- 📧 yourname@gmail.com  
+- 📧 tun78912@temple.edu 
 - 🌐 [GitHub](https://github.com/yourusername)  
-- 📍 Based in Japan  
+- 📍 Lancaster, PA  
