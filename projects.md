@@ -3,11 +3,12 @@ title: Projects
 nav_order: 3
 ---
 
-# Projects
+# Maps
 
-Here are some of my favorite works:
+Here are my best maps that I have created using ArcGIS:
 
-| Year | Project | Description |
-|------|----------|--------------|
-| 2024 | Tokyo Mapping Studio | A collection of urban spatial stories |
-| 2023 | Cities in Motion | An interactive Leaflet map series |
+
+
+<img width="3300" height="2550" alt="Layout" src="https://github.com/user-attachments/assets/e9934022-5322-4c93-9e21-2827bc8250f2" />
+
+
